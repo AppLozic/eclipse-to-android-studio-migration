@@ -38,4 +38,4 @@ Hope this helps. Have queries? Feel free to comment below, would be happy to ans
 
 Happy Coding :)
 
-Originally posted in: https://blog.applozic.com/migrating-project-from-eclipse-to-studio-b7880393552#.ncstf1onh
+Originally posted in: http://www.applozic.com/blog/migrating-project-from-eclipse-to-studio/
